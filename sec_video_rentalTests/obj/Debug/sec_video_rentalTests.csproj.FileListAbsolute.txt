@@ -1,0 +1,17 @@
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\sec_video_rentalTests.dll
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\sec_video_rentalTests.pdb
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\sec_video_rental.exe
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\sec_video_rental.pdb
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\sec_video_rental.exe.config
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\obj\Debug\sec_video_rentalTests.csprojAssemblyReference.cache
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\obj\Debug\sec_video_rentalTests.csproj.CoreCompileInputs.cache
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\obj\Debug\sec_video_rentalTests.csproj.CopyComplete
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\obj\Debug\sec_video_rentalTests.dll
+D:\aPRL-mAY\sec_video_rental\sec_video_rentalTests\obj\Debug\sec_video_rentalTests.pdb
